@@ -1,5 +1,5 @@
 # PredictCAHousingPrices
-Predict California Housing Prices
+### Predict California Housing Prices
 
 **Objective:** 
 Given the rising cost of California homes, I seek to predict the costs of California houses and learn more about spefici correlations that drive the median house value.
